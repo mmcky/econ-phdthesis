@@ -1,0 +1,147 @@
+Convert dta to hdf file
+Loading Year: 1962 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf62.dta
+Loading Year: 1963 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf63.dta
+Loading Year: 1964 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf64.dta
+Loading Year: 1965 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf65.dta
+Loading Year: 1966 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf66.dta
+Loading Year: 1967 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf67.dta
+Loading Year: 1968 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf68.dta
+Loading Year: 1969 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf69.dta
+Loading Year: 1970 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf70.dta
+Loading Year: 1971 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf71.dta
+Loading Year: 1972 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf72.dta
+Loading Year: 1973 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf73.dta
+Loading Year: 1974 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf74.dta
+Loading Year: 1975 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf75.dta
+Loading Year: 1976 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf76.dta
+Loading Year: 1977 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf77.dta
+Loading Year: 1978 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf78.dta
+Loading Year: 1979 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf79.dta
+Loading Year: 1980 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf80.dta
+Loading Year: 1981 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf81.dta
+Loading Year: 1982 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf82.dta
+Loading Year: 1983 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf83.dta
+Loading Year: 1984 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf84.dta
+Loading Year: 1985 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf85.dta
+Loading Year: 1986 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf86.dta
+Loading Year: 1987 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf87.dta
+Loading Year: 1988 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf88.dta
+Loading Year: 1989 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf89.dta
+Loading Year: 1990 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf90.dta
+Loading Year: 1991 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf91.dta
+Loading Year: 1992 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf92.dta
+Loading Year: 1993 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf93.dta
+Loading Year: 1994 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf94.dta
+Loading Year: 1995 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf95.dta
+Loading Year: 1996 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf96.dta
+Loading Year: 1997 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf97.dta
+Loading Year: 1998 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf98.dta
+Loading Year: 1999 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf99.dta
+Loading Year: 2000 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/wtf00.dta
+HDF File Saved ...
+<class 'pandas.io.pytables.HDFStore'>
+File path: ./output/raw/nber_year.h5
+/Y1962            frame_table  (typ->appendable,nrows->470438,ncols->10,indexers->[index])
+/Y1963            frame_table  (typ->appendable,nrows->517226,ncols->10,indexers->[index])
+/Y1964            frame_table  (typ->appendable,nrows->542702,ncols->10,indexers->[index])
+/Y1965            frame_table  (typ->appendable,nrows->568809,ncols->10,indexers->[index])
+/Y1966            frame_table  (typ->appendable,nrows->589728,ncols->10,indexers->[index])
+/Y1967            frame_table  (typ->appendable,nrows->604986,ncols->10,indexers->[index])
+/Y1968            frame_table  (typ->appendable,nrows->617735,ncols->10,indexers->[index])
+/Y1969            frame_table  (typ->appendable,nrows->643458,ncols->10,indexers->[index])
+/Y1970            frame_table  (typ->appendable,nrows->682605,ncols->10,indexers->[index])
+/Y1971            frame_table  (typ->appendable,nrows->694324,ncols->10,indexers->[index])
+/Y1972            frame_table  (typ->appendable,nrows->720331,ncols->10,indexers->[index])
+/Y1973            frame_table  (typ->appendable,nrows->752834,ncols->10,indexers->[index])
+/Y1974            frame_table  (typ->appendable,nrows->791178,ncols->10,indexers->[index])
+/Y1975            frame_table  (typ->appendable,nrows->797553,ncols->10,indexers->[index])
+/Y1976            frame_table  (typ->appendable,nrows->799271,ncols->10,indexers->[index])
+/Y1977            frame_table  (typ->appendable,nrows->808383,ncols->10,indexers->[index])
+/Y1978            frame_table  (typ->appendable,nrows->749735,ncols->10,indexers->[index])
+/Y1979            frame_table  (typ->appendable,nrows->858366,ncols->10,indexers->[index])
+/Y1980            frame_table  (typ->appendable,nrows->865274,ncols->10,indexers->[index])
+/Y1981            frame_table  (typ->appendable,nrows->862001,ncols->10,indexers->[index])
+/Y1982            frame_table  (typ->appendable,nrows->831483,ncols->10,indexers->[index])
+/Y1983            frame_table  (typ->appendable,nrows->773136,ncols->10,indexers->[index])
+/Y1984            frame_table  (typ->appendable,nrows->513064,ncols->10,indexers->[index])
+/Y1985            frame_table  (typ->appendable,nrows->509175,ncols->10,indexers->[index])
+/Y1986            frame_table  (typ->appendable,nrows->536642,ncols->10,indexers->[index])
+/Y1987            frame_table  (typ->appendable,nrows->573866,ncols->10,indexers->[index])
+/Y1988            frame_table  (typ->appendable,nrows->598534,ncols->10,indexers->[index])
+/Y1989            frame_table  (typ->appendable,nrows->632752,ncols->10,indexers->[index])
+/Y1990            frame_table  (typ->appendable,nrows->662705,ncols->10,indexers->[index])
+/Y1991            frame_table  (typ->appendable,nrows->656092,ncols->10,indexers->[index])
+/Y1992            frame_table  (typ->appendable,nrows->707563,ncols->10,indexers->[index])
+/Y1993            frame_table  (typ->appendable,nrows->727880,ncols->10,indexers->[index])
+/Y1994            frame_table  (typ->appendable,nrows->759096,ncols->10,indexers->[index])
+/Y1995            frame_table  (typ->appendable,nrows->812278,ncols->10,indexers->[index])
+/Y1996            frame_table  (typ->appendable,nrows->858263,ncols->10,indexers->[index])
+/Y1997            frame_table  (typ->appendable,nrows->882248,ncols->10,indexers->[index])
+/Y1998            frame_table  (typ->appendable,nrows->878604,ncols->10,indexers->[index])
+/Y1999            frame_table  (typ->appendable,nrows->866257,ncols->10,indexers->[index])
+/Y2000            frame_table  (typ->appendable,nrows->857189,ncols->10,indexers->[index])
+Convert DTA to HDF Finished!
+[NBER-SUPP] Loading Year: 1988 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk88.dta
+[NBER-SUPP] Loading Year: 1989 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk89.dta
+[NBER-SUPP] Loading Year: 1990 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk90.dta
+[NBER-SUPP] Loading Year: 1991 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk91.dta
+[NBER-SUPP] Loading Year: 1992 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk92.dta
+[NBER-SUPP] Loading Year: 1993 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk93.dta
+[NBER-SUPP] Loading Year: 1994 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk94.dta
+[NBER-SUPP] Loading Year: 1995 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk95.dta
+[NBER-SUPP] Loading Year: 1996 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk96.dta
+[NBER-SUPP] Loading Year: 1997 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk97.dta
+[NBER-SUPP] Loading Year: 1998 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk98.dta
+[NBER-SUPP] Loading Year: 1999 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk99.dta
+[NBER-SUPP] Loading Year: 2000 from file: /home/ubuntu/work-data/datasets/36a376e5a01385782112519bddfac85e/china_hk00.dta
+HDF file Saved ...
+<class 'pandas.io.pytables.HDFStore'>
+File path: ./output/raw/nber_supp_year.h5
+/Y1988            frame_table  (typ->appendable,nrows->22853,ncols->11,indexers->[index])
+/Y1989            frame_table  (typ->appendable,nrows->25111,ncols->11,indexers->[index])
+/Y1990            frame_table  (typ->appendable,nrows->26572,ncols->11,indexers->[index])
+/Y1991            frame_table  (typ->appendable,nrows->28519,ncols->11,indexers->[index])
+/Y1992            frame_table  (typ->appendable,nrows->31182,ncols->11,indexers->[index])
+/Y1993            frame_table  (typ->appendable,nrows->33613,ncols->11,indexers->[index])
+/Y1994            frame_table  (typ->appendable,nrows->35413,ncols->11,indexers->[index])
+/Y1995            frame_table  (typ->appendable,nrows->38012,ncols->11,indexers->[index])
+/Y1996            frame_table  (typ->appendable,nrows->38492,ncols->11,indexers->[index])
+/Y1997            frame_table  (typ->appendable,nrows->40292,ncols->11,indexers->[index])
+/Y1998            frame_table  (typ->appendable,nrows->40740,ncols->11,indexers->[index])
+/Y1999            frame_table  (typ->appendable,nrows->41155,ncols->11,indexers->[index])
+/Y2000            frame_table  (typ->appendable,nrows->43522,ncols->11,indexers->[index])
+Convert csv to hdf file
+Loading Year: 1998 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_1998.csv
+Loading Year: 1999 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_1999.csv
+Loading Year: 2000 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2000.csv
+Loading Year: 2001 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2001.csv
+Loading Year: 2002 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2002.csv
+Loading Year: 2003 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2003.csv
+Loading Year: 2004 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2004.csv
+Loading Year: 2005 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2005.csv
+Loading Year: 2006 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2006.csv
+Loading Year: 2007 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2007.csv
+Loading Year: 2008 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2008.csv
+Loading Year: 2009 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2009.csv
+Loading Year: 2010 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2010.csv
+Loading Year: 2011 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2011.csv
+Loading Year: 2012 from file: /home/ubuntu/work-data/datasets/e988b6544563675492b59f397a8cb6bb/baci96_2012.csv
+HDF File Saved
+<class 'pandas.io.pytables.HDFStore'>
+File path: ./output/raw/baci_year.h5
+/Y1998            frame_table  (typ->appendable,nrows->4858978,ncols->6,indexers->[index])
+/Y1999            frame_table  (typ->appendable,nrows->5109324,ncols->6,indexers->[index])
+/Y2000            frame_table  (typ->appendable,nrows->5589045,ncols->6,indexers->[index])
+/Y2001            frame_table  (typ->appendable,nrows->5787389,ncols->6,indexers->[index])
+/Y2002            frame_table  (typ->appendable,nrows->5979749,ncols->6,indexers->[index])
+/Y2003            frame_table  (typ->appendable,nrows->6267990,ncols->6,indexers->[index])
+/Y2004            frame_table  (typ->appendable,nrows->6591429,ncols->6,indexers->[index])
+/Y2005            frame_table  (typ->appendable,nrows->6910870,ncols->6,indexers->[index])
+/Y2006            frame_table  (typ->appendable,nrows->7092561,ncols->6,indexers->[index])
+/Y2007            frame_table  (typ->appendable,nrows->7227805,ncols->6,indexers->[index])
+/Y2008            frame_table  (typ->appendable,nrows->7358604,ncols->6,indexers->[index])
+/Y2009            frame_table  (typ->appendable,nrows->7068370,ncols->6,indexers->[index])
+/Y2010            frame_table  (typ->appendable,nrows->7246385,ncols->6,indexers->[index])
+/Y2011            frame_table  (typ->appendable,nrows->7341121,ncols->6,indexers->[index])
+/Y2012            frame_table  (typ->appendable,nrows->7066274,ncols->6,indexers->[index])
+Convert CSV to HDF Finished!

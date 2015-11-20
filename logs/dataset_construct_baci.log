@@ -1,0 +1,134 @@
+
+---> Loading RAW Data <---
+Loading Year: 1998
+Loading Year: 1999
+Loading Year: 2000
+Loading Year: 2001
+Loading Year: 2002
+Loading Year: 2003
+Loading Year: 2004
+Loading Year: 2005
+Loading Year: 2006
+Loading Year: 2007
+Loading Year: 2008
+Loading Year: 2009
+Loading Year: 2010
+Loading Year: 2011
+Loading Year: 2012
+[1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012]
+
+---> COMPUTING SITC REVISION 2 LEVEL 1 DATASETS <---
+
+[SITCR2L1] Computing Dataset A for trade
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[WARNING] Dropping Countries where iso3c has null() values will remove country export/import from NES, and other regions!
+[Returning] BACI HS96 Source => TRADE data for SITCR2L1 with ISO3C Countries
+
+[SITCR2L1] Computing Dataset A for export
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[Returning] BACI HS96 Source => EXPORT data for SITCR2L1 with ISO3C Countries
+
+[SITCR2L1] Computing Dataset A for import
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[Returning] BACI HS96 Source => IMPORT data for SITCR2L1 with ISO3C Countries
+
+
+---> COMPUTING SITC REVISION 2 LEVEL 2 DATASETS <---
+
+[SITCR2L2] Computing Dataset A for trade
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[WARNING] Dropping Countries where iso3c has null() values will remove country export/import from NES, and other regions!
+[Returning] BACI HS96 Source => TRADE data for SITCR2L2 with ISO3C Countries
+
+[SITCR2L2] Computing Dataset A for export
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[Returning] BACI HS96 Source => EXPORT data for SITCR2L2 with ISO3C Countries
+
+[SITCR2L2] Computing Dataset A for import
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[Returning] BACI HS96 Source => IMPORT data for SITCR2L2 with ISO3C Countries
+
+
+---> COMPUTING SITC REVISION 2 LEVEL 3 DATASETS <---
+
+[SITCR2L3] Computing Dataset A for trade
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[WARNING] Dropping Countries where iso3c has null() values will remove country export/import from NES, and other regions!
+[Returning] BACI HS96 Source => TRADE data for SITCR2L3 with ISO3C Countries
+
+[SITCR2L3] Computing Dataset A for export
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[Returning] BACI HS96 Source => EXPORT data for SITCR2L3 with ISO3C Countries
+
+[SITCR2L3] Computing Dataset A for import
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[Returning] BACI HS96 Source => IMPORT data for SITCR2L3 with ISO3C Countries
+
+
+---> COMPUTING SITC REVISION 2 LEVEL 4 DATASETS <---
+
+[SITCR2L4] Computing Dataset A for trade
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[WARNING] Dropping Countries where iso3c has null() values will remove country export/import from NES, and other regions!
+[Returning] BACI HS96 Source => TRADE data for SITCR2L4 with ISO3C Countries
+
+[SITCR2L4] Computing Dataset A for export
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[Returning] BACI HS96 Source => EXPORT data for SITCR2L4 with ISO3C Countries
+
+[SITCR2L4] Computing Dataset A for import
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[DROPPING] 0 duplicate pairs
+[Returning] BACI HS96 Source => IMPORT data for SITCR2L4 with ISO3C Countries
+
+
+---> COMPUTING SITC REVISION 2 LEVEL 5 DATASETS <---
+
+[SITCR2L5] Computing Dataset A for trade
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[WARNING] Dropping Countries where iso3c has null() values will remove country export/import from NES, and other regions!
+[Returning] BACI HS96 Source => TRADE data for SITCR2L5 with ISO3C Countries
+
+[SITCR2L5] Computing Dataset A for export
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[Returning] BACI HS96 Source => EXPORT data for SITCR2L5 with ISO3C Countries
+
+[SITCR2L5] Computing Dataset A for import
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+[Returning] BACI HS96 Source => IMPORT data for SITCR2L5 with ISO3C Countries
+
+
+---> SAVING RAW DATA (WITH STANDARD COLUMNS NAMES) <---
+
+
+---> COMPUTING WORLD YEARLY VALUES FROM RAW BACI DATASET <---
+
+
+---> COMPUTING COUNTRY YEARLY VALUES FROM RAW BACI DATASET <---
+
+
+---> COMPUTING PRODUCT YEAR VALUES FROM RAW BACI DATASET (HS and SITC)
+
+Computing HS6 Product Year Values ...
+Computing HS5 Product Year Values ...
+Computing HS4 Product Year Values ...
+Computing HS3 Product Year Values ...
+Computing HS2 Product Year Values ...
+Computing HS1 Product Year Values ...
+[INFO] Retrieving information from file: HS1996_to_SITCR2.csv
+Computing SITC5 Product Year Values ...
+Computing SITC4 Product Year Values ...
+Computing SITC3 Product Year Values ...
+Computing SITC2 Product Year Values ...
+Computing SITC1 Product Year Values ...
