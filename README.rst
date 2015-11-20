@@ -1,2 +1,7 @@
-# econ-phdthesis
-Contains python code and additional data tables in support of my PhD thesis
+Economics PhD Thesis
+====================
+
+Contains
+--------
+  - Python Code used to undertake analysis
+  - Additional data tables not contained in the printed version of the thesis
