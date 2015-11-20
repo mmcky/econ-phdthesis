@@ -1,0 +1,7 @@
+infix dictionary using SITC-R2-L3-codes.csv {
+    2 firstlineoffile
+    1 lines
+    1:
+        str sitc3  1-3
+        int marker  5
+}
